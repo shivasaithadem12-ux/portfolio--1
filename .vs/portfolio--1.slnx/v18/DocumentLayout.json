@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Portfolio\\portfolio--1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\portfolio\\portfolio--1\\assets\\scenes\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\portfolio\\portfolio--1\\assets\\scenes\\staminasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\staminasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\portfolio\\portfolio--1\\assets\\scenes\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\portfolio\\portfolio--1\\assets\\scenes\\backgroundmusicmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\backgroundmusicmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\portfolio\\portfolio--1\\assets\\scenes\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\portfolio\\portfolio--1\\assets\\scenes\\breakableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\breakableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaminaSystem.cs",
+              "DocumentMoniker": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\StaminaSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\StaminaSystem.cs",
+              "ToolTip": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\StaminaSystem.cs",
+              "RelativeToolTip": "Assets\\Scenes\\StaminaSystem.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T05:24:17.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackgroundMusicManage.cs",
+              "DocumentMoniker": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\BackgroundMusicManage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\BackgroundMusicManage.cs",
+              "ToolTip": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\BackgroundMusicManage.cs",
+              "RelativeToolTip": "Assets\\Scenes\\BackgroundMusicManage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:48:00.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\MainMenuManager.cs",
+              "ToolTip": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\MainMenuManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:05:05.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreakableObject.cs",
+              "DocumentMoniker": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\BreakableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\BreakableObject.cs",
+              "ToolTip": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\BreakableObject.cs",
+              "RelativeToolTip": "Assets\\Scenes\\BreakableObject.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:33:54.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\CameraFollow.cs",
+              "ToolTip": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scenes\\CameraFollow.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:23:27.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\PlayerController.cs",
+              "ToolTip": "C:\\Portfolio\\portfolio--1\\Assets\\Scenes\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scenes\\PlayerController.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAwwBUBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:18:35.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
